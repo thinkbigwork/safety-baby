@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "title": "Safety Baby — Home Safety Evaluation",
+    "description": "Evaluate your home safety conditions for your baby through AI-powered photo analysis"
+  },
+  "header": {
+    "brand": "Safety Baby",
+    "startEvaluation": "Start Evaluation",
+    "language": "Español"
+  },
+  "onboarding": {
+    "welcome": "Welcome to",
+    "brandName": "Safety Baby",
+    "tagline": "Protect your little one before accidents happen",
+    "slide1": {
+      "title": "Did You Know?",
+      "stat1": "2.3 million",
+      "stat1Label": "children under 5 are injured at home each year",
+      "stat2": "70%",
+      "stat2Label": "of these accidents are preventable",
+      "stat3": "#1",
+      "stat3Label": "cause of injury in children is falls at home"
+    },
+    "slide2": {
+      "title": "Prevention Saves Lives",
+      "description": "A simple home evaluation can identify hidden dangers in your everyday spaces — from loose cords and sharp edges to toxic products within reach.",
+      "point1": "Kitchen hazards: hot surfaces, sharp objects, chemicals",
+      "point2": "Bathroom risks: slippery surfaces, drowning hazards",
+      "point3": "Bedroom dangers: suffocation risks, fall hazards",
+      "point4": "Living room: furniture tip-overs, small objects"
+    },
+    "slide3": {
+      "title": "Let's Evaluate Your Home",
+      "description": "Take 4 simple photos of your rooms and our AI will analyze potential risks based on your baby's stage.",
+      "step1": "Choose your baby's stage",
+      "step2": "Photograph 4 rooms",
+      "step3": "Get your safety report",
+      "cta": "Start Free Evaluation"
+    },
+    "skip": "Skip",
+    "next": "Next",
+    "back": "Back"
+  },
+  "stages": {
+    "title": "Select Your Baby's Stage",
+    "subtitle": "We'll customize the evaluation based on your baby's developmental phase",
+    "pregnancy": {
+      "title": "Pregnancy",
+      "description": "Preparing the home for your baby's arrival",
+      "details": "Focus on nursery setup, air quality, chemical storage, and general home preparation"
+    },
+    "newborn": {
+      "title": "Newborn",
+      "age": "0–6 months",
+      "description": "Critical safety for your new baby",
+      "details": "Focus on safe sleep environment, SIDS prevention, temperature control, and hygiene"
+    },
+    "firstSteps": {
+      "title": "First Steps",
+      "age": "6–18 months",
+      "description": "Safety for your mobile explorer",
+      "details": "Focus on baby-proofing, fall prevention, electrical safety, and choking hazards"
+    },
+    "continue": "Continue"
+  },
+  "photos": {
+    "title": "Photograph Your Rooms",
+    "subtitle": "Take a clear photo of each room — try to capture the full space",
+    "rooms": {
+      "bedroom": "Bedroom",
+      "kitchen": "Kitchen",
+      "bathroom": "Bathroom",
+      "living": "Living Room"
+    },
+    "roomTips": {
+      "bedroom": "Include the crib/bed area, windows, outlets, and floor",
+      "kitchen": "Show countertops, cabinets, stove, and floor area",
+      "bathroom": "Capture the tub/shower, toilet, sink, and floor",
+      "living": "Include furniture, TV area, floor, and accessible shelves"
+    },
+    "takePhoto": "Take Photo",
+    "retake": "Retake",
+    "uploading": "Processing...",
+    "step": "Room {current} of {total}",
+    "analyze": "Analyze My Home",
+    "analyzing": "Analyzing..."
+  },
+  "analysis": {
+    "loading": {
+      "title": "Analyzing Your Home",
+      "steps": {
+        "scanning": "Scanning photos...",
+        "identifying": "Identifying potential hazards...",
+        "evaluating": "Evaluating risk levels...",
+        "generating": "Generating recommendations...",
+        "finalizing": "Finalizing your report..."
+      }
+    }
+  },
+  "results": {
+    "title": "Your Safety Report",
+    "overallScore": "Overall Safety Score",
+    "roomScores": "Room Scores",
+    "findings": "Findings",
+    "findingsCount": "{free} of {total} findings shown",
+    "recommendations": "Recommendations",
+    "otherEvaluations": "Other Recommended Evaluations",
+    "additionalPhotos": "Additional Photos Needed",
+    "additionalPhotosDesc": "We found areas that need closer inspection",
+    "severity": {
+      "critical": "Critical",
+      "high": "High",
+      "medium": "Medium",
+      "low": "Low"
+    },
+    "risk": {
+      "high": "High Risk",
+      "medium": "Medium Risk",
+      "low": "Low Risk"
+    },
+    "category": {
+      "accident": "Accident Risk",
+      "disease": "Health Risk",
+      "general": "General Safety"
+    },
+    "unlock": {
+      "title": "Unlock Full Report",
+      "description": "You're seeing {free} of {total} findings. Get the complete report with all findings and detailed recommendations.",
+      "price": "$1.99",
+      "cta": "Unlock for $1.99",
+      "features": {
+        "allFindings": "All {total} findings revealed",
+        "detailed": "Detailed action steps for each finding",
+        "printable": "Printable PDF-style report",
+        "priority": "Priority-ordered improvement plan"
+      }
+    },
+    "paywall": {
+      "title": "Complete Your Purchase",
+      "subtitle": "Unlock your full Safety Baby report",
+      "cardNumber": "Card Number",
+      "expiry": "Expiry",
+      "cvc": "CVC",
+      "name": "Cardholder Name",
+      "pay": "Pay $1.99",
+      "processing": "Processing...",
+      "success": "Payment Successful!",
+      "successDesc": "Your full report is now unlocked",
+      "viewReport": "View Full Report",
+      "secure": "Secure payment powered by Stripe",
+      "cancel": "Cancel"
+    },
+    "newEvaluation": "New Evaluation",
+    "shareReport": "Share Report"
+  },
+  "additional": {
+    "title": "Additional Photos Needed",
+    "subtitle": "Our analysis found areas that need closer inspection for a more accurate evaluation",
+    "takePhoto": "Take Photo",
+    "skip": "Skip & Continue",
+    "submit": "Submit Additional Photos",
+    "reason": "Why we need this"
+  }
+}

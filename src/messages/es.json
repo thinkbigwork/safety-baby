@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "title": "Safety Baby — Evaluación de Seguridad del Hogar",
+    "description": "Evalúa las condiciones de seguridad de tu hogar para tu bebé mediante análisis fotográfico con IA"
+  },
+  "header": {
+    "brand": "Safety Baby",
+    "startEvaluation": "Iniciar Evaluación",
+    "language": "English"
+  },
+  "onboarding": {
+    "welcome": "Bienvenido a",
+    "brandName": "Safety Baby",
+    "tagline": "Protege a tu pequeño antes de que ocurran los accidentes",
+    "slide1": {
+      "title": "¿Sabías que...?",
+      "stat1": "2.3 millones",
+      "stat1Label": "de niños menores de 5 años se lesionan en el hogar cada año",
+      "stat2": "70%",
+      "stat2Label": "de estos accidentes son prevenibles",
+      "stat3": "#1",
+      "stat3Label": "causa de lesiones en niños son las caídas en el hogar"
+    },
+    "slide2": {
+      "title": "La Prevención Salva Vidas",
+      "description": "Una simple evaluación del hogar puede identificar peligros ocultos en tus espacios cotidianos — desde cables sueltos y bordes afilados hasta productos tóxicos al alcance.",
+      "point1": "Peligros en la cocina: superficies calientes, objetos cortantes, químicos",
+      "point2": "Riesgos en el baño: superficies resbaladizas, riesgo de ahogamiento",
+      "point3": "Peligros en el dormitorio: riesgo de asfixia, caídas",
+      "point4": "Sala de estar: muebles que pueden volcarse, objetos pequeños"
+    },
+    "slide3": {
+      "title": "Evaluemos Tu Hogar",
+      "description": "Toma 4 fotos simples de tus habitaciones y nuestra IA analizará los riesgos potenciales según la etapa de tu bebé.",
+      "step1": "Elige la etapa de tu bebé",
+      "step2": "Fotografía 4 habitaciones",
+      "step3": "Obtén tu informe de seguridad",
+      "cta": "Iniciar Evaluación Gratuita"
+    },
+    "skip": "Saltar",
+    "next": "Siguiente",
+    "back": "Atrás"
+  },
+  "stages": {
+    "title": "Selecciona la Etapa de Tu Bebé",
+    "subtitle": "Personalizaremos la evaluación según la fase de desarrollo de tu bebé",
+    "pregnancy": {
+      "title": "Embarazo",
+      "description": "Preparando el hogar para la llegada del bebé",
+      "details": "Enfoque en preparación del cuarto del bebé, calidad del aire, almacenamiento de químicos y preparación general del hogar"
+    },
+    "newborn": {
+      "title": "Recién Nacido",
+      "age": "0–6 meses",
+      "description": "Seguridad crítica para tu nuevo bebé",
+      "details": "Enfoque en ambiente seguro para dormir, prevención de SMSL, control de temperatura e higiene"
+    },
+    "firstSteps": {
+      "title": "Primeros Pasos",
+      "age": "6–18 meses",
+      "description": "Seguridad para tu pequeño explorador",
+      "details": "Enfoque en protección de espacios, prevención de caídas, seguridad eléctrica y riesgo de asfixia"
+    },
+    "continue": "Continuar"
+  },
+  "photos": {
+    "title": "Fotografía Tus Habitaciones",
+    "subtitle": "Toma una foto clara de cada habitación — intenta capturar el espacio completo",
+    "rooms": {
+      "bedroom": "Dormitorio",
+      "kitchen": "Cocina",
+      "bathroom": "Baño",
+      "living": "Sala de Estar"
+    },
+    "roomTips": {
+      "bedroom": "Incluye la cuna/cama, ventanas, enchufes y el piso",
+      "kitchen": "Muestra las encimeras, gabinetes, estufa y área del piso",
+      "bathroom": "Captura la bañera/ducha, inodoro, lavabo y piso",
+      "living": "Incluye muebles, área del TV, piso y estantes accesibles"
+    },
+    "takePhoto": "Tomar Foto",
+    "retake": "Repetir",
+    "uploading": "Procesando...",
+    "step": "Habitación {current} de {total}",
+    "analyze": "Analizar Mi Hogar",
+    "analyzing": "Analizando..."
+  },
+  "analysis": {
+    "loading": {
+      "title": "Analizando Tu Hogar",
+      "steps": {
+        "scanning": "Escaneando fotos...",
+        "identifying": "Identificando peligros potenciales...",
+        "evaluating": "Evaluando niveles de riesgo...",
+        "generating": "Generando recomendaciones...",
+        "finalizing": "Finalizando tu informe..."
+      }
+    }
+  },
+  "results": {
+    "title": "Tu Informe de Seguridad",
+    "overallScore": "Puntuación General de Seguridad",
+    "roomScores": "Puntuación por Habitación",
+    "findings": "Hallazgos",
+    "findingsCount": "{free} de {total} hallazgos mostrados",
+    "recommendations": "Recomendaciones",
+    "otherEvaluations": "Otras Evaluaciones Recomendadas",
+    "additionalPhotos": "Fotos Adicionales Necesarias",
+    "additionalPhotosDesc": "Encontramos áreas que necesitan inspección más detallada",
+    "severity": {
+      "critical": "Crítico",
+      "high": "Alto",
+      "medium": "Medio",
+      "low": "Bajo"
+    },
+    "risk": {
+      "high": "Alto Riesgo",
+      "medium": "Riesgo Medio",
+      "low": "Bajo Riesgo"
+    },
+    "category": {
+      "accident": "Riesgo de Accidente",
+      "disease": "Riesgo de Salud",
+      "general": "Seguridad General"
+    },
+    "unlock": {
+      "title": "Desbloquear Informe Completo",
+      "description": "Estás viendo {free} de {total} hallazgos. Obtén el informe completo con todos los hallazgos y recomendaciones detalladas.",
+      "price": "$1.99",
+      "cta": "Desbloquear por $1.99",
+      "features": {
+        "allFindings": "Los {total} hallazgos revelados",
+        "detailed": "Pasos de acción detallados para cada hallazgo",
+        "printable": "Informe imprimible estilo PDF",
+        "priority": "Plan de mejora priorizado"
+      }
+    },
+    "paywall": {
+      "title": "Completa Tu Compra",
+      "subtitle": "Desbloquea tu informe completo de Safety Baby",
+      "cardNumber": "Número de Tarjeta",
+      "expiry": "Vencimiento",
+      "cvc": "CVC",
+      "name": "Nombre del Titular",
+      "pay": "Pagar $1.99",
+      "processing": "Procesando...",
+      "success": "¡Pago Exitoso!",
+      "successDesc": "Tu informe completo está desbloqueado",
+      "viewReport": "Ver Informe Completo",
+      "secure": "Pago seguro con tecnología de Stripe",
+      "cancel": "Cancelar"
+    },
+    "newEvaluation": "Nueva Evaluación",
+    "shareReport": "Compartir Informe"
+  },
+  "additional": {
+    "title": "Fotos Adicionales Necesarias",
+    "subtitle": "Nuestro análisis encontró áreas que necesitan inspección más detallada para una evaluación más precisa",
+    "takePhoto": "Tomar Foto",
+    "skip": "Saltar y Continuar",
+    "submit": "Enviar Fotos Adicionales",
+    "reason": "Por qué necesitamos esto"
+  }
+}
